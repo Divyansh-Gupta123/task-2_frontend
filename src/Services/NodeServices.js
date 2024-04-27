@@ -1,5 +1,5 @@
 import axios from "axios";
-export const serverURL = 'http://localhost:8000';
+export const serverURL = 'https://task2-backend-g5wk.onrender.com';
 
 export const getData = async (url) => {
     try {
